@@ -11,3 +11,12 @@
 #### To do in the next work
 * Postprocess the data of silt sedimentation.
 * Make the poster for AGU fall meeting. 
+
+### 2017. 12. 2 - 2017. 12. 8
+#### Current work
+* Revise the post-processing code for the silt sedimentation code, e.g.,force chain, contact stress.
+* Make the AGU poster
+
+#### To do in the next work
+* Attend the AGU meeting
+* Discuss the postprocessing of the irregular-particle dune with Rui
