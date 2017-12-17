@@ -25,7 +25,7 @@
 #### Current work
 - [x] Attend the AGU meeting, the notes are recorded in Evernote <Notebook:AGUmeeting>.
 - [x] Discuss with Rui, the postprocessing of the "irregular-particle dune" case will be going on. 
-- [x] Talk with Dr. sun about the proceeding of the cohesive case (validation and inovation). see evernote：Cohesive Particle Case Proceeding. 
+- [x] Talk with Dr. sun about the proceeding of the cohesive case (validation and inovation), see evernote：Cohesive Particle Case Proceeding. 
 
 #### To do in the next work
 - [ ] Postprocess the irregular-particle dune 
