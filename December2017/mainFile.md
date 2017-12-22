@@ -31,3 +31,14 @@
 - [ ] Postprocess the irregular-particle dune 
 - [ ] Visit Dr. strom's lab, try to find the experimental results about the flocculation to validate the simulation. Is there some chance to cooperate? 
 - [ ] Make the slides of learning openFoam.
+
+### 2017. 12. 17 - 2017. 12. 22
+#### Current work
+- [x] Visit Dr. strom's lab, talk with Duc about the flocculation and write a report about the flocculation.
+- [x] Check the case in Rui's external hard drive about the irregular dune.  
+- [ ] Do not make the slides of learning openFoam.😭
+
+#### To do in the next work
+- [ ] Have a holiday travel.
+
+
