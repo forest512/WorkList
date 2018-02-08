@@ -16,6 +16,6 @@
 #### To do in the next work
 - [ ] Validate the pressure drop.
 - [ ] Debug cases to run successfully. 
-- [ ] Run every cases in Sun's dirs.
+- [ ] Run every case in Sun's dirs.
 
 
