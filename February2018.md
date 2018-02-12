@@ -18,4 +18,17 @@
 - [ ] Debug cases to run successfully. 
 - [ ] Run every case in Sun's dirs.
 
+### 2018. 2. 06 - 2018. 2. 12
+#### Previous plans which are executed and not
+- [x] Validate the pressure drop successfully
+- [x] Run just some cases (not every) in Sun's dirs.
+- [ ] Debug cases to run successfully. 
 
+#### Extra work beyond the plan
+- [x] Convergence and Mesh independence study. 
+- [x] In the new meshes, run different cases of jamming with different initial concentration.
+
+#### To do in the next work
+- [ ] Debug cases with focus on the diffusion setup.
+- [ ] Attend turbulence modelling and simulation class.
+- [ ] Run more cases in Sun's dirs.
