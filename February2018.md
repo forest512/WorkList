@@ -30,5 +30,6 @@
 
 #### To do in the next work
 - [ ] Debug cases with focus on the diffusion setup.
+- [ ] Understand the k and nut set up in openFoam and give a correct value of them in the jamming case.
 - [ ] Attend turbulence modelling and simulation class.
 - [ ] Run more cases in Sun's dirs.
