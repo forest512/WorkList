@@ -18,3 +18,17 @@
 - [ ] Analyze the influence of the fluid velocity and the concentration. 
 - [ ] Write the Sec. 3.1, 3.2, 3.3 of the draft. 
 - [ ] Start running the cases about the poly-dispersity. 
+
+### 2018. 04. 09 - 2018. 04. 14 
+#### Previous plans which are not executed
+- [x] Have a look at all of the jamming cases. Delete the useless cases and copy the important jamming cases.
+- [x] Analyze the influence of the fluid velocity and the concentration. 
+- [ ] Write the Sec. 3.1, 3.2, 3.3 of the draft. 
+- [ ] Start running the cases about the poly-dispersity. 
+
+#### To do in the next work.
+- [ ] Try to find the dimensionless variable.
+- [ ] Write the Sec. 3.1, 3.2, 3.3 of the draft. 
+- [ ] Start running the cases about the poly-dispersity. 
+
+FiGHTING!!!!
