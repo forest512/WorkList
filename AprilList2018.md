@@ -19,16 +19,24 @@
 - [ ] Write the Sec. 3.1, 3.2, 3.3 of the draft. 
 - [ ] Start running the cases about the poly-dispersity. 
 
-### 2018. 04. 09 - 2018. 04. 14 
+### 2018. 04. 15 - 2018. 04. 22 
 #### Previous plans which are not executed
 - [x] Have a look at all of the jamming cases. Delete the useless cases and copy the important jamming cases.
 - [x] Analyze the influence of the fluid velocity and the concentration. 
-- [ ] Write the Sec. 3.1, 3.2, 3.3 of the draft. 
+- [x] Write the Sec. 3.1, 3.2, 3.3 of the draft. 
+- [x] Start running the cases about the poly-dispersity. 
+
+#### To do in the next work.
+- [x] Try to find the dimensionless variable.
+- [x] Write the Sec. 3.1, 3.2, 3.3 of the draft. 
+- [ ] Start running the cases about the poly-dispersity. 
+
+### 2018. 04. 23 - 2018. 04. 29 
+#### Previous plans which are not executed
 - [ ] Start running the cases about the poly-dispersity. 
 
 #### To do in the next work.
-- [ ] Try to find the dimensionless variable.
-- [ ] Write the Sec. 3.1, 3.2, 3.3 of the draft. 
 - [ ] Start running the cases about the poly-dispersity. 
-
-FiGHTING!!!!
+- [ ] Start sleeping early. 
+- [ ] Finish the CFD course project. 
+- [ ] Finish the jamming paper. 
