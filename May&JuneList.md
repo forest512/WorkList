@@ -26,6 +26,7 @@
 - [ ] Poly-dispersity case set up.
 - [ ] Finish the book <The Element of Style>
 - [x] Insist doing exercise
+  
 Sorry about don't finish my plan. What I do during this time is revising the manuscript of the jamming paper. 
 
 ### 2018. 06. 06 - 2018. 06.21
