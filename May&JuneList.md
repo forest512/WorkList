@@ -35,8 +35,9 @@ Sorry about don't finish my plan. What I do during this time is revising the man
 - [x] Finish the book <The Element of Style>
 - [x] Insist doing exercise
   
-### 2018. 06. 22 - 2018. 06.25
+### 2018. 06. 22 - 2018. 06.30
 #### To do work 
 - [ ] Poly-dispersity case postprocess and write a outline for it.
 - [ ] Insist doing exercise
 - [ ] Revise the figures in jamming manuscript.
+- [ ] Have a talk with danMing.
