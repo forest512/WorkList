@@ -16,3 +16,14 @@
 - [x] 100%
 
 ##### Assessment and experience
+1. Exercise: Maybe doing too much exercise this week. It's necessary to make a exercise plan, such as going lefit three times a week, running or doing zumba three times a week, and one day is for resting.
+2. Study & research: It's not very easy to denote yourself in studying. Do not think too much, just do it.
+3. Relationship: strengthen the communication.
+
+### 2018. 9. 3 - 2018. 9. 10
+#### To do work
+- [ ] Response to the Reviewer 2 point-by-point every morning. 
+- [ ] Move to the new dorm.
+- [ ] Obtain the funtion of the poly-dispersed particle diameter and the particle discharge rate.  
+- [ ] Complete the writing about the sand particle generation
+- [ ] openFoam Study. 
